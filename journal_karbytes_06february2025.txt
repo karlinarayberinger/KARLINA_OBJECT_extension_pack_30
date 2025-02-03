@@ -1,0 +1,21 @@
+/** 
+ * file: journal_karbytes_06february2025.txt 
+ * type: plain-text 
+ * date: 02_FEBRUARY_2025 
+ * author: karbytes 
+ * license: PUBLIC_DOMAIN 
+ */
+
+One of my goals in life is to always keep my total physical possessions small enough to easily fit inside of a five foot by five foot by five foot volume. That means I intend to rely on public transportation or borrowed/rented vehicles for getting around. I do not consider housing to be part of the collection of items which I think of as my personal physical property. Instead I consider real estate and living quarters to be ultimately ownerless (though temporarily possessed exclusively by whoever currently occupies or "holds" that property (much the same way money is ultimately "ownerless" (but ultimately belonging to the government) yet conditionally made exclusively usable by specific legally-permitted "holders" (whose "hold" on that property is for finite time periods at a time (and which must be renewed after that time period ends through monetary payments and/or approval by those who represent the government or the government-sanctioned "owner(s)" of that property)))).
+
+The personal property I ultimately "own" and care about most is intellectual property rather than physical property (though such intellectual property requires physical hardware in order to verifiably exist (and such intellectual property is ultimately a finite allocation of all cyberspace (and my own proprietary allocation of cyberspace is what I refer to as karbytes according to the definitions presented in the following web page: x))).
+
+Some facts about karbytes (intellectual property):
+
+1. The rate at which karbytes grows (in terms of cumulative data size and total number of digital, public web hosted files) appears to be slower than the rate at which digital storage media are becoming smaller in terms of physical space (i.e. side lengths, volume, surface area, total mass), more energy efficient (due to algorithm improvements and strategic changes in hardware component composition (at molecular, atomic, and subatomic levels), and more affordable and available to the general human population (due to consumer product scalability incorporated into its design and sufficiently high consumer demand for such products). That means that karbytes will likely be able to fit into increasingly smaller storage media as time elapses forward in karbytes' "encompassing" universe.
+
+2. karbytes (i.e. the sole author and original proprietor of the aforementioned collection of public web hosted digital files referred to as karbytes) uses a hierarchical storage system for storing the media into which karbytes versions are encoded. The most recently backed up versions of karbytes are stored inside of exactly one (blue) "fire-proof" and "water-proof" compact disc case which has been stripped of its compact disc sleeves in order to make room for up to six M_DISCs which are each stored inside of its own plastic "jewel case". M_DISCs containing older versions of karbytes are placed in less secure storage receptacles within karbytes' physical property storage unit. If and when that storage unit becomes "too crowded", karbytes either gives away the oldest ("limited edition") M_DISCs containing preliminary versions of karbytes to fans of karbytes or else karbytes destroys and recycles those media.
+
+3. karbytes makes a high priority of keeping its physical and mental health in as excellent of condition as possible (because maintaining karbytes' physical and mental fitness enables karbytes to perform as well as possible in karbytes' goal-oriented activities and enables karbytes to enjoy being alive as well as possible).
+
+4. Every file which comprises karbytes is eventually saved to the WayBack Machine at Archive dot Org in order to maximize the probability of that file being publicly accessible (as public domain (and implicitly open source) intellectual property) at any point in time after that file was most recently updated by the aforementioned person named karbytes. (That person endeavors to personally save each file within the aforementioned body of intellectual property named karbytes to the WayBack Machine as many times as is feasible (in order to demonstrate karbytes' sovereignty over karbytes for as long as that person is alive and self-sovereign)).
