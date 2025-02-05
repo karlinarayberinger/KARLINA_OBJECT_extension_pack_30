@@ -1,10 +1,14 @@
 /** 
- * file: journal_karbytes_09february2025.txt 
+ * file: a_privatized_journal_karbytes_09february2025.txt 
  * type: plain-text 
  * date: 04_FEBRUARY_2025 
  * author: karbytes 
  * license: PUBLIC_DOMAIN 
  */ 
+
+This journal entry is being moved to a private GitHub repository and excluded from karbytes due to the fact that it seems to be going backwards in terms of quality.
+
+* * *
 
 I almost tweeted the following: "karbytes is the evil son. Karlina is the good daughter."
 
