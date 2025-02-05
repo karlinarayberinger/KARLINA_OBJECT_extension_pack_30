@@ -1,7 +1,7 @@
 /**
  * file: karbytes_social_media_posts.txt
  * type: plain-text
- * date: 03_FEBRUARY_2025
+ * date: 04_FEBRUARY_2025
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
@@ -267,3 +267,15 @@ https://karbytesforlifeblog.wordpress.com/journal_karbytes_05february2025/
 On 03_FEBRUARY_2025 at approximately 5:00AM Pacific Standard Time, karbytes shared the following karbytes-created web page as a social media post on karbytes' Twitter dot Com page, on karbytes' Minds dot Com page, on karbytes' LinkedIn dot Com page, on karbytes' Patreon dot Com page, and on karbytes' Bluesky dot Com page:
 
 https://karbytesforlifeblog.wordpress.com/micro_directory_definition/
+
+* * *
+
+On 04_FEBRUARY_2025 at approximately 11:30PM Pacific Standard Time, karbytes shared the following video as a social media post on karbytes' Bluesky dot Com page, on karbytes' Twitter dot Com page, and on karbytes' Minds dot Com page:
+
+video_title: "DeepSeek, China, OpenAI, NVIDIA, xAI, TSMC, Stargate, and AI Megaclusters | Lex Fridman Podcast #459"
+
+video_channel_title: "Lex Fridman"
+
+video_release_date: 02_FEBRUARY_2025
+
+video_url: https://www.youtube.com/watch?v=_1f-o0nqpEI
